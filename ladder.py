@@ -1,6 +1,6 @@
 import random
 
-def print_just_line(c): # 얘가 옆으로
+def print_just_line(c):
     for _ in range(c):
         print("ㅣ   ", end="")
     print()
